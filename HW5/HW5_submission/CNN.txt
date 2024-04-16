@@ -1,0 +1,14 @@
+--conv_size
+3
+--n_filters
+80
+--hidden
+100
+--model=cnn
+--dropout=0.25
+--spatial_dropout=0.25
+--lrate=.001
+--embeddings=50
+--activation_out=softmax
+--activation_dense=elu
+--results_path=results/cnn/run2
