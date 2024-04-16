@@ -1,0 +1,5 @@
+NO VISIBLE DEVICES!!!!
+GPUS: []
+NO GPU
+Total jobs: 160
+Total jobs: 160
