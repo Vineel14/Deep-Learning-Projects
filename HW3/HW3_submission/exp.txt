@@ -1,0 +1,11 @@
+--Ntraining=3
+--epochs=1000
+--patience=50
+--batch=256
+--shuffle=200
+--min_delta=0.001
+--monitor=val_sparse_categorical_accuracy
+--padding=valid
+--save_model
+--results_path=./results/shallow/run2
+-vv

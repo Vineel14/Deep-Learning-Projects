@@ -1,0 +1,13 @@
+--conv_size
+3
+--conv_nfilters
+10
+--pool
+2
+--hidden
+50
+20
+--dropout=0.25
+--spatial_dropout=0.2
+--l1=0.0001
+--l2=0.001
